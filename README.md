@@ -20,3 +20,10 @@
 - Clone it into your local machine
 - Solve any of the given assignment questions
 - Create a pull request
+
+### Assignments Completed
+
+- [x] Assignment 1
+- [ ] Assignment 2
+- [ ] Assignment 3
+- [ ] Assignment 4
