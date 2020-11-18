@@ -10,7 +10,7 @@ public class Compare {
         input.close();
         if (a > b)
             System.out.println(a + " is greater than " + b);
-        else if (b < a)
+        else if (a < b)
             System.out.println(b + " is greater than " + a);
         else
             System.out.println("Both numbers are equal!");
