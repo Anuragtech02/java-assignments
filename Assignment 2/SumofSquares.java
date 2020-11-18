@@ -1,21 +1,16 @@
 import java.util.Scanner;
 
-public class SumofSquares {
-    // Function to calculate sum
-    public static int summation(int n) {
-        int sum = 0;
-        for (int i = 1; i <= n; i++)
-            sum += (i * i);
+public class SumOfSquares {
 
-        return sum;
-    }
-
-    // Driver code
     public static void main(String args[]) {
-        System.out.println("Enter the term upto which you want the series printed upto : ");
-        Scanner n = new Scanner(System.in);
-        int i = n.nextInt();
-        System.out.println(summation(i));
-        n.close();
-    }
+	System.out.println("Enter the value upto which sum is to be calculated:");
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        sc.close();
+	int sum = 0;
+	for(int i = 0; i < n; i++){
+		sum = sum + i*i;
+	}
+	System.out.println("Sum of series is:" + sum);
+}
 }
