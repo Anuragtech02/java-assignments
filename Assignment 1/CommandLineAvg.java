@@ -9,7 +9,7 @@ class CommandLineAvg {
 
         }
 
-        ans = sum / args.length;
+        ans = sum / 5;
 
         System.out.println("Average of arguments is " + ans);
 
