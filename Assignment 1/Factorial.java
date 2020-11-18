@@ -11,7 +11,7 @@ public class Factorial {
     }
 
     public static void main(String args[]) {
-        System.out.print("Enter number to calculate Facotrial : ");
+        System.out.print("Enter number to calculate Factorial : ");
 
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
