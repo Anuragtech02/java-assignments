@@ -3,13 +3,13 @@ class CommandLineAvg {
 
         int sum = 0, ans = 0;
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < args.length; i++) {
 
             sum = sum + Integer.parseInt(args[i]);
 
         }
 
-        ans = sum / 5;
+        ans = sum / args.length;
 
         System.out.println("Average of arguments is " + ans);
 
