@@ -24,6 +24,8 @@
 ### Assignments Completed
 
 - [x] Assignment 1
-- [ ] Assignment 2
+- [x] Assignment 2
 - [ ] Assignment 3
 - [ ] Assignment 4
+
+## Please do not download or copy anything before all assignments are complete.
