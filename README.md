@@ -25,7 +25,7 @@
 
 - [x] Assignment 1
 - [x] Assignment 2
-- [ ] Assignment 3
+- [x] Assignment 3
 - [ ] Assignment 4
 
 ## Please do not download or copy anything before all assignments are complete.
