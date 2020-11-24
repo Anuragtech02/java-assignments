@@ -1,6 +1,6 @@
 // Output is given below, justification is given in comments in corresponding lines
 
-public class percolate {
+public class Percolate {
     public static void main (String[] args) {
         int[] dataSeq = {6,4,8,2,1};
         printIntArray(dataSeq);

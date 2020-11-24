@@ -23,7 +23,7 @@ class calltest{
 class intc{
     int x;
     }
-class reftest{
+class Reftest{
     public static void main (String a[]){
     intc o=new intc();
     fun(o);
