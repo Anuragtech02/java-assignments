@@ -1,5 +1,8 @@
 # Java Assignment
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/Anuragtech02/java-assignments/graphs/contributors)
+
 ## Assignment Boilerplate
 
     import java.util.Scanner;
@@ -26,6 +29,6 @@
 - [x] Assignment 1
 - [x] Assignment 2
 - [x] Assignment 3
-- [ ] Assignment 4
+- [x] Assignment 4
 
-## Please do not download or copy anything before all assignments are complete.
+## You can now download the files, All the assignments are complete.
