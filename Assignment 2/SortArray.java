@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Array;
+//import java.util.Array;
 
 public class SortArray {
 
@@ -28,7 +28,7 @@ public class SortArray {
 	for(int j = 0; j < 5; j++){
 		int b = a[j];
 		for(int k = j + 1; k < 5;k++){
-			if( s[j].compareTo(s.[k] > 0) ){
+			if( s[j].compareTo(s.[k]) > 0 ){
 			String temp = s[j];
 			s[j] = s[k];
 			s[k] = temp;
